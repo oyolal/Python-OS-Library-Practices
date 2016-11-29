@@ -1,5 +1,5 @@
-#In this practice we will cover renaming files
-import os, sys
+import os
+'''In this practice we will cover renaming files'''
 path = os.getcwd()
 filenames = os.listdir(path)
 # listing directories
