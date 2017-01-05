@@ -9,7 +9,7 @@ print os.getcwd()
 os.chdir("\.")
 os.chdir("\Users\Oyola\Desktop")
 #Since this program staying in folder on my Desktop I just need to go upper folder double times
-#If you are running in C you type "..\Users\Desktop"
+#If you are running in C you type "..\Users\youruser name\Desktop"
 print "Now we are at Desktop"
 def mkdir():
     print "Current directory"
